@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+protein_pipeline_env/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & Models
+outputs/
+*.pdb
+*.pt
+*.pth
+*.ckpt
+models/checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache
+.cache/
+*.log

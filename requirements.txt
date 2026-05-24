@@ -1,0 +1,23 @@
+# Core
+torch>=2.0.0
+fair-esm
+biopython
+numpy
+pandas
+
+# ML & Analysis
+scikit-learn
+scipy
+torch-geometric
+
+# Visualization
+matplotlib
+seaborn
+py3Dmol
+
+# Chemistry
+rdkit-pypi
+
+# Utilities
+tqdm
+pyyaml
