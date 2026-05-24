@@ -1,0 +1,17 @@
+residue_index,residue_name,plddt,rmsf_angstrom,stability_score,classification
+0,MET,87.0000,0.6286,0.6577,stable
+1,LYS,91.0000,0.5230,0.7056,stable
+2,THR,90.0000,0.5513,0.6924,stable
+3,ILE,90.0000,0.5513,0.6924,stable
+4,ILE,89.0000,0.5782,0.6801,stable
+5,ALA,90.0000,0.5513,0.6924,stable
+6,LEU,91.0000,0.5230,0.7056,stable
+7,SER,90.0000,0.5513,0.6924,stable
+8,TYR,91.0000,0.5230,0.7056,stable
+9,ILE,90.0000,0.5513,0.6924,stable
+10,PHE,91.0000,0.5230,0.7056,stable
+11,CYS,90.0000,0.5513,0.6924,stable
+12,LEU,87.0000,0.6286,0.6577,stable
+13,VAL,90.0000,0.5513,0.6924,stable
+14,PHE,88.0000,0.6040,0.6686,stable
+15,ALA,83.0000,0.7188,0.6193,stable

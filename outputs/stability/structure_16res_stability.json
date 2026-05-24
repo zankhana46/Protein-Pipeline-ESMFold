@@ -1,0 +1,239 @@
+{
+  "pdb_paths": [
+    "outputs\\structures\\structure_16res.pdb"
+  ],
+  "n_structures": 1,
+  "mean_rmsd_angstrom": null,
+  "pairwise_rmsd_matrix": null,
+  "summary": {
+    "n_residues": 16,
+    "mean_plddt": 89.25,
+    "mean_rmsf": 0.5694,
+    "fraction_stable": 1.0,
+    "n_stable": 16,
+    "n_moderate": 0,
+    "n_flexible": 0
+  },
+  "residues": [
+    {
+      "residue_index": 0,
+      "residue_name": "MET",
+      "plddt": 87.0,
+      "rmsf_angstrom": 0.6286,
+      "stability_score": 0.6577,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 1,
+      "residue_name": "LYS",
+      "plddt": 91.0,
+      "rmsf_angstrom": 0.523,
+      "stability_score": 0.7056,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 2,
+      "residue_name": "THR",
+      "plddt": 90.0,
+      "rmsf_angstrom": 0.5513,
+      "stability_score": 0.6924,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 3,
+      "residue_name": "ILE",
+      "plddt": 90.0,
+      "rmsf_angstrom": 0.5513,
+      "stability_score": 0.6924,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 4,
+      "residue_name": "ILE",
+      "plddt": 89.0,
+      "rmsf_angstrom": 0.5782,
+      "stability_score": 0.6801,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 5,
+      "residue_name": "ALA",
+      "plddt": 90.0,
+      "rmsf_angstrom": 0.5513,
+      "stability_score": 0.6924,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 6,
+      "residue_name": "LEU",
+      "plddt": 91.0,
+      "rmsf_angstrom": 0.523,
+      "stability_score": 0.7056,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 7,
+      "residue_name": "SER",
+      "plddt": 90.0,
+      "rmsf_angstrom": 0.5513,
+      "stability_score": 0.6924,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 8,
+      "residue_name": "TYR",
+      "plddt": 91.0,
+      "rmsf_angstrom": 0.523,
+      "stability_score": 0.7056,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 9,
+      "residue_name": "ILE",
+      "plddt": 90.0,
+      "rmsf_angstrom": 0.5513,
+      "stability_score": 0.6924,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 10,
+      "residue_name": "PHE",
+      "plddt": 91.0,
+      "rmsf_angstrom": 0.523,
+      "stability_score": 0.7056,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 11,
+      "residue_name": "CYS",
+      "plddt": 90.0,
+      "rmsf_angstrom": 0.5513,
+      "stability_score": 0.6924,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 12,
+      "residue_name": "LEU",
+      "plddt": 87.0,
+      "rmsf_angstrom": 0.6286,
+      "stability_score": 0.6577,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 13,
+      "residue_name": "VAL",
+      "plddt": 90.0,
+      "rmsf_angstrom": 0.5513,
+      "stability_score": 0.6924,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 14,
+      "residue_name": "PHE",
+      "plddt": 88.0,
+      "rmsf_angstrom": 0.604,
+      "stability_score": 0.6686,
+      "classification": "stable"
+    },
+    {
+      "residue_index": 15,
+      "residue_name": "ALA",
+      "plddt": 83.0,
+      "rmsf_angstrom": 0.7188,
+      "stability_score": 0.6193,
+      "classification": "stable"
+    }
+  ],
+  "visualization_arrays": {
+    "residue_indices": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "plddt_values": [
+      87.0,
+      91.0,
+      90.0,
+      90.0,
+      89.0,
+      90.0,
+      91.0,
+      90.0,
+      91.0,
+      90.0,
+      91.0,
+      90.0,
+      87.0,
+      90.0,
+      88.0,
+      83.0
+    ],
+    "rmsf_values": [
+      0.6286,
+      0.523,
+      0.5513,
+      0.5513,
+      0.5782,
+      0.5513,
+      0.523,
+      0.5513,
+      0.523,
+      0.5513,
+      0.523,
+      0.5513,
+      0.6286,
+      0.5513,
+      0.604,
+      0.7188
+    ],
+    "stability_scores": [
+      0.6577,
+      0.7056,
+      0.6924,
+      0.6924,
+      0.6801,
+      0.6924,
+      0.7056,
+      0.6924,
+      0.7056,
+      0.6924,
+      0.7056,
+      0.6924,
+      0.6577,
+      0.6924,
+      0.6686,
+      0.6193
+    ],
+    "classifications": [
+      "stable",
+      "stable",
+      "stable",
+      "stable",
+      "stable",
+      "stable",
+      "stable",
+      "stable",
+      "stable",
+      "stable",
+      "stable",
+      "stable",
+      "stable",
+      "stable",
+      "stable",
+      "stable"
+    ]
+  }
+}
