@@ -1,0 +1,127 @@
+=================================================================
+  Member 2 — Geometry Pocket Analyzer
+  Input : structure_129res.pdb
+=================================================================
+
+Parsed : 129 residues,  1000 heavy atoms
+
+[Detection]  fpocket  ...
+  Found 6 pocket(s)
+
+[Scoring]  Computing 9 physics features for each fpocket pocket  ...
+
+=================================================================
+  RANKED BINDING POCKETS  —  geometry_score → Member 3 fusion
+=================================================================
+
+  Pocket #1   geometry_score = 0.6337   volume = 776 Å³
+  fpocket druggability  : 0.001
+  ─────────────────────────────────────────────────────────────────
+  Physics features (A–I) :
+    (A) Volume score      : 0.9992   [776 Å³  —  optimal ~800 Å³]
+    (B) Burial depth      : 0.4115
+    (C) Hydrophobicity    : 0.4667   [mean Kyte-Doolittle = -0.30]
+    (D) H-bond balance    : 1.0000   [S_HB = 44  (23 donors + 21 acceptors)]
+    (E) Electrostatics    : 0.9333   [net charge = -1.0  |total| = 3.0]
+    (F) Sphericity        : 0.2714
+    (G) SASA buriedness   : 0.5388
+    (H) Aromaticity       : 0.7143   [3 aromatic residue(s)]
+    (I) pLDDT rigidity    : 0.9543   [mean pLDDT = 0.954]
+  ─────────────────────────────────────────────────────────────────
+  Binding pocket residues (10/14) :  (+4 more)
+    PHE-34,  GLU-35,  ASP-52,  GLN-57,  ILE-58,  ASN-59,  TRP-63,  ILE-98,  ALA-107,  TRP-108
+  ─────────────────────────────────────────────────────────────────
+
+  Pocket #2   geometry_score = 0.6083   volume = 274 Å³
+  fpocket druggability  : 0.035
+  ─────────────────────────────────────────────────────────────────
+  Physics features (A–I) :
+    (A) Volume score      : 0.6811   [274 Å³  —  optimal ~800 Å³]
+    (B) Burial depth      : 0.5205
+    (C) Hydrophobicity    : 0.3444   [mean Kyte-Doolittle = -1.40]
+    (D) H-bond balance    : 1.0000   [S_HB = 16  (8 donors + 8 acceptors)]
+    (E) Electrostatics    : 0.8333   [net charge = -1.0  |total| = 1.0]
+    (F) Sphericity        : 0.5373
+    (G) SASA buriedness   : 0.2489
+    (H) Aromaticity       : 1.0000   [2 aromatic residue(s)]
+    (I) pLDDT rigidity    : 0.9020   [mean pLDDT = 0.902]
+  ─────────────────────────────────────────────────────────────────
+  Binding pocket residues (5/5) :
+    TRP-62,  TRP-63,  ASP-101,  ASN-103,  ALA-107
+  ─────────────────────────────────────────────────────────────────
+
+  Pocket #3   geometry_score = 0.5479   volume = 345 Å³
+  fpocket druggability  : 0.597
+  ─────────────────────────────────────────────────────────────────
+  Physics features (A–I) :
+    (A) Volume score      : 0.7500   [345 Å³  —  optimal ~800 Å³]
+    (B) Burial depth      : 0.4458
+    (C) Hydrophobicity    : 0.5078   [mean Kyte-Doolittle = +0.07]
+    (D) H-bond balance    : 1.0000   [S_HB = 35  (18 donors + 17 acceptors)]
+    (E) Electrostatics    : 1.0000   [net charge = +0.0  |total| = 2.0]
+    (F) Sphericity        : 0.2900
+    (G) SASA buriedness   : 0.5487
+    (H) Aromaticity       : 0.0000   [0 aromatic residue(s)]
+    (I) pLDDT rigidity    : 0.9640   [mean pLDDT = 0.964]
+  ─────────────────────────────────────────────────────────────────
+  Binding pocket residues (10/10) :
+    CYS-76,  ILE-78,  ALA-82,  SER-85,  ASP-87,  THR-89,  ALA-90,  ASN-93,  CYS-94,  LYS-97
+  ─────────────────────────────────────────────────────────────────
+
+  Pocket #4   geometry_score = 0.5407   volume = 395 Å³
+  fpocket druggability  : 0.000
+  ─────────────────────────────────────────────────────────────────
+  Physics features (A–I) :
+    (A) Volume score      : 0.7959   [395 Å³  —  optimal ~800 Å³]
+    (B) Burial depth      : 0.5283
+    (C) Hydrophobicity    : 0.2967   [mean Kyte-Doolittle = -1.83]
+    (D) H-bond balance    : 1.0000   [S_HB = 37  (18 donors + 19 acceptors)]
+    (E) Electrostatics    : 0.9091   [net charge = -1.0  |total| = 3.0]
+    (F) Sphericity        : 0.3033
+    (G) SASA buriedness   : 0.4940
+    (H) Aromaticity       : 0.3333   [1 aromatic residue(s)]
+    (I) pLDDT rigidity    : 0.9670   [mean pLDDT = 0.967]
+  ─────────────────────────────────────────────────────────────────
+  Binding pocket residues (10/10) :
+    LYS-33,  PHE-34,  GLU-35,  SER-36,  ASN-37,  ALA-42,  THR-43,  ASN-44,  ASP-52,  GLN-57
+  ─────────────────────────────────────────────────────────────────
+
+  Pocket #5   geometry_score = 0.5376   volume = 207 Å³
+  fpocket druggability  : 0.001
+  ─────────────────────────────────────────────────────────────────
+  Physics features (A–I) :
+    (A) Volume score      : 0.6134   [207 Å³  —  optimal ~800 Å³]
+    (B) Burial depth      : 0.4777
+    (C) Hydrophobicity    : 0.3841   [mean Kyte-Doolittle = -1.04]
+    (D) H-bond balance    : 1.0000   [S_HB = 28  (15 donors + 13 acceptors)]
+    (E) Electrostatics    : 1.0000   [net charge = +0.0  |total| = 2.0]
+    (F) Sphericity        : 0.3494
+    (G) SASA buriedness   : 0.3588
+    (H) Aromaticity       : 0.4762   [1 aromatic residue(s)]
+    (I) pLDDT rigidity    : 0.9586   [mean pLDDT = 0.959]
+  ─────────────────────────────────────────────────────────────────
+  Binding pocket residues (7/7) :
+    TYR-53,  ASN-65,  ASP-66,  ARG-68,  CYS-80,  SER-81,  LEU-84
+  ─────────────────────────────────────────────────────────────────
+
+  Pocket #6   geometry_score = 0.5351   volume = 363 Å³
+  fpocket druggability  : 0.000
+  ─────────────────────────────────────────────────────────────────
+  Physics features (A–I) :
+    (A) Volume score      : 0.7668   [363 Å³  —  optimal ~800 Å³]
+    (B) Burial depth      : 0.4933
+    (C) Hydrophobicity    : 0.2381   [mean Kyte-Doolittle = -2.36]
+    (D) H-bond balance    : 1.0000   [S_HB = 27  (16 donors + 11 acceptors)]
+    (E) Electrostatics    : 0.8750   [net charge = +1.0  |total| = 3.0]
+    (F) Sphericity        : 0.4214
+    (G) SASA buriedness   : 0.1256
+    (H) Aromaticity       : 0.4762   [1 aromatic residue(s)]
+    (I) pLDDT rigidity    : 0.9357   [mean pLDDT = 0.936]
+  ─────────────────────────────────────────────────────────────────
+  Binding pocket residues (7/7) :
+    ARG-45,  GLY-49,  THR-51,  TYR-53,  ASP-66,  ARG-68,  PRO-70
+  ─────────────────────────────────────────────────────────────────
+
+=================================================================
+  → geometry_score per pocket is passed to Member 3 fusion engine
+=================================================================

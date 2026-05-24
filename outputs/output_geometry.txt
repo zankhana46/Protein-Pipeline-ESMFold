@@ -1,0 +1,163 @@
+=================================================================
+  Member 2 — Geometry Pocket Analyzer
+  Input : structure_110res.pdb
+=================================================================
+
+Parsed : 110 residues,  838 heavy atoms
+
+[Detection]  fpocket  ...
+  Found 8 pocket(s)
+
+[Scoring]  Computing 9 physics features for each fpocket pocket  ...
+
+=================================================================
+  RANKED BINDING POCKETS  —  geometry_score → Member 3 fusion
+=================================================================
+
+  Pocket #1   geometry_score = 0.6787   volume = 339 Å³
+  fpocket druggability  : 0.530
+  ─────────────────────────────────────────────────────────────────
+  Physics features (A–I) :
+    (A) Volume score      : 0.7448   [339 Å³  —  optimal ~800 Å³]
+    (B) Burial depth      : 0.4317
+    (C) Hydrophobicity    : 0.8178   [mean Kyte-Doolittle = +2.86]
+    (D) H-bond balance    : 0.7333   [S_HB = 11  (6 donors + 5 acceptors)]
+    (E) Electrostatics    : 1.0000   [net charge = +0.0  |total| = 0.0]
+    (F) Sphericity        : 0.5770
+    (G) SASA buriedness   : 0.0000
+    (H) Aromaticity       : 0.6667   [1 aromatic residue(s)]
+    (I) pLDDT rigidity    : 0.7320   [mean pLDDT = 0.732]
+  ─────────────────────────────────────────────────────────────────
+  Binding pocket residues (5/5) :
+    LEU-3,  TRP-4,  LEU-7,  LEU-8,  LEU-11
+  ─────────────────────────────────────────────────────────────────
+
+  Pocket #2   geometry_score = 0.6654   volume = 562 Å³
+  fpocket druggability  : 0.470
+  ─────────────────────────────────────────────────────────────────
+  Physics features (A–I) :
+    (A) Volume score      : 0.9244   [562 Å³  —  optimal ~800 Å³]
+    (B) Burial depth      : 0.4967
+    (C) Hydrophobicity    : 0.6404   [mean Kyte-Doolittle = +1.26]
+    (D) H-bond balance    : 1.0000   [S_HB = 30  (14 donors + 16 acceptors)]
+    (E) Electrostatics    : 0.9565   [net charge = -0.5  |total| = 1.5]
+    (F) Sphericity        : 0.3103
+    (G) SASA buriedness   : 0.2980
+    (H) Aromaticity       : 0.6061   [2 aromatic residue(s)]
+    (I) pLDDT rigidity    : 0.6718   [mean pLDDT = 0.672]
+  ─────────────────────────────────────────────────────────────────
+  Binding pocket residues (10/11) :  (+1 more)
+    ALA-24,  PHE-25,  GLN-28,  LEU-30,  HIS-34,  GLU-37,  ALA-38,  LEU-41,  CYS-100,  LEU-102
+  ─────────────────────────────────────────────────────────────────
+
+  Pocket #3   geometry_score = 0.6431   volume = 213 Å³
+  fpocket druggability  : 0.000
+  ─────────────────────────────────────────────────────────────────
+  Physics features (A–I) :
+    (A) Volume score      : 0.6200   [213 Å³  —  optimal ~800 Å³]
+    (B) Burial depth      : 0.4565
+    (C) Hydrophobicity    : 0.5889   [mean Kyte-Doolittle = +0.80]
+    (D) H-bond balance    : 0.9333   [S_HB = 14  (7 donors + 7 acceptors)]
+    (E) Electrostatics    : 1.0000   [net charge = +0.0  |total| = 0.0]
+    (F) Sphericity        : 0.4942
+    (G) SASA buriedness   : 0.4283
+    (H) Aromaticity       : 1.0000   [3 aromatic residue(s)]
+    (I) pLDDT rigidity    : 0.7400   [mean pLDDT = 0.740]
+  ─────────────────────────────────────────────────────────────────
+  Binding pocket residues (5/5) :
+    VAL-36,  TYR-40,  GLY-47,  PHE-48,  TYR-50
+  ─────────────────────────────────────────────────────────────────
+
+  Pocket #4   geometry_score = 0.6382   volume = 162 Å³
+  fpocket druggability  : 0.184
+  ─────────────────────────────────────────────────────────────────
+  Physics features (A–I) :
+    (A) Volume score      : 0.5685   [162 Å³  —  optimal ~800 Å³]
+    (B) Burial depth      : 0.4558
+    (C) Hydrophobicity    : 0.7917   [mean Kyte-Doolittle = +2.62]
+    (D) H-bond balance    : 0.6000   [S_HB = 9  (5 donors + 4 acceptors)]
+    (E) Electrostatics    : 1.0000   [net charge = +0.0  |total| = 0.0]
+    (F) Sphericity        : 0.5640
+    (G) SASA buriedness   : 0.0000
+    (H) Aromaticity       : 0.8333   [1 aromatic residue(s)]
+    (I) pLDDT rigidity    : 0.6925   [mean pLDDT = 0.693]
+  ─────────────────────────────────────────────────────────────────
+  Binding pocket residues (4/4) :
+    LEU-10,  LEU-13,  LEU-14,  TRP-17
+  ─────────────────────────────────────────────────────────────────
+
+  Pocket #5   geometry_score = 0.6102   volume = 668 Å³
+  fpocket druggability  : 0.260
+  ─────────────────────────────────────────────────────────────────
+  Physics features (A–I) :
+    (A) Volume score      : 0.9760   [668 Å³  —  optimal ~800 Å³]
+    (B) Burial depth      : 0.4242
+    (C) Hydrophobicity    : 0.4541   [mean Kyte-Doolittle = -0.41]
+    (D) H-bond balance    : 1.0000   [S_HB = 54  (29 donors + 25 acceptors)]
+    (E) Electrostatics    : 0.9375   [net charge = +1.0  |total| = 3.0]
+    (F) Sphericity        : 0.2410
+    (G) SASA buriedness   : 0.2244
+    (H) Aromaticity       : 0.6667   [3 aromatic residue(s)]
+    (I) pLDDT rigidity    : 0.6353   [mean pLDDT = 0.635]
+  ─────────────────────────────────────────────────────────────────
+  Binding pocket residues (10/15) :  (+5 more)
+    PHE-49,  TYR-50,  THR-51,  LYS-53,  LYS-88,  GLY-90,  ILE-91,  VAL-92,  GLU-93,  CYS-96
+  ─────────────────────────────────────────────────────────────────
+
+  Pocket #6   geometry_score = 0.5454   volume = 505 Å³
+  fpocket druggability  : 0.054
+  ─────────────────────────────────────────────────────────────────
+  Physics features (A–I) :
+    (A) Volume score      : 0.8860   [505 Å³  —  optimal ~800 Å³]
+    (B) Burial depth      : 0.5489
+    (C) Hydrophobicity    : 0.3181   [mean Kyte-Doolittle = -1.64]
+    (D) H-bond balance    : 1.0000   [S_HB = 28  (15 donors + 13 acceptors)]
+    (E) Electrostatics    : 1.0000   [net charge = +0.0  |total| = 4.0]
+    (F) Sphericity        : 0.4116
+    (G) SASA buriedness   : 0.0000
+    (H) Aromaticity       : 0.0000   [0 aromatic residue(s)]
+    (I) pLDDT rigidity    : 0.4562   [mean pLDDT = 0.456]
+  ─────────────────────────────────────────────────────────────────
+  Binding pocket residues (8/8) :
+    LYS-53,  GLU-57,  ALA-58,  LEU-61,  GLN-87,  LYS-88,  GLY-90,  GLU-93
+  ─────────────────────────────────────────────────────────────────
+
+  Pocket #7   geometry_score = 0.5182   volume = 417 Å³
+  fpocket druggability  : 0.015
+  ─────────────────────────────────────────────────────────────────
+  Physics features (A–I) :
+    (A) Volume score      : 0.8155   [417 Å³  —  optimal ~800 Å³]
+    (B) Burial depth      : 0.4963
+    (C) Hydrophobicity    : 0.2444   [mean Kyte-Doolittle = -2.30]
+    (D) H-bond balance    : 1.0000   [S_HB = 37  (22 donors + 15 acceptors)]
+    (E) Electrostatics    : 0.8182   [net charge = +2.0  |total| = 2.0]
+    (F) Sphericity        : 0.3433
+    (G) SASA buriedness   : 0.0000
+    (H) Aromaticity       : 0.3704   [1 aromatic residue(s)]
+    (I) pLDDT rigidity    : 0.5689   [mean pLDDT = 0.569]
+  ─────────────────────────────────────────────────────────────────
+  Binding pocket residues (9/9) :
+    LEU-86,  GLN-87,  LYS-88,  ARG-89,  GLN-94,  SER-98,  GLN-104,  ASN-107,  TYR-108
+  ─────────────────────────────────────────────────────────────────
+
+  Pocket #8   geometry_score = 0.5079   volume = 242 Å³
+  fpocket druggability  : 0.006
+  ─────────────────────────────────────────────────────────────────
+  Physics features (A–I) :
+    (A) Volume score      : 0.6488   [242 Å³  —  optimal ~800 Å³]
+    (B) Burial depth      : 0.4725
+    (C) Hydrophobicity    : 0.4000   [mean Kyte-Doolittle = -0.90]
+    (D) H-bond balance    : 0.8000   [S_HB = 12  (4 donors + 8 acceptors)]
+    (E) Electrostatics    : 0.6667   [net charge = -2.0  |total| = 2.0]
+    (F) Sphericity        : 0.6442
+    (G) SASA buriedness   : 0.0070
+    (H) Aromaticity       : 0.0000   [0 aromatic residue(s)]
+    (I) pLDDT rigidity    : 0.3875   [mean pLDDT = 0.387]
+  ─────────────────────────────────────────────────────────────────
+  Binding pocket residues (4/4) :
+    GLU-57,  ASP-60,  LEU-61,  GLY-64
+  ─────────────────────────────────────────────────────────────────
+
+=================================================================
+  → geometry_score per pocket is passed to Member 3 fusion engine
+=================================================================

@@ -12,9 +12,10 @@ protein_pipeline_env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Data & Models
-outputs/
-*.pdb
+# Data & Models (but allow structures folder)
+outputs/cache/
+outputs/member*/
+outputs/final/
 *.pt
 *.pth
 *.ckpt
